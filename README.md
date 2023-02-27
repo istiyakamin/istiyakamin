@@ -18,6 +18,8 @@ I have a good understanding of the language fundamentals and the standard librar
 <!-- TECNOLOGIAS -->
 <div align="center">
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-squar&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-squar&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
