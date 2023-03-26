@@ -4,8 +4,8 @@ Hi, my name is Isitiyak Amin(Istu) 😎 and I am a passionate Golang developer. 
 I have a good understanding of the language fundamentals and the standard library, and I am familiar with the Swarm and Whisper protocols. Additionally, I have experience with deploying and compiling smart contracts, and I am passionate about learning new technologies and techniques to further my knowledge. I am confident that my experience and knowledge of Golang will be an asset to any team.
 
 ### 🔥🔥 Places I have been
-- Software Engineer at RoyalRecruiter(https://royalrecruiter.com.com/)
-- Software Developer at KING APPS STUDIO(https://kingappsstudio.com)
+- Software Engineer at [RoyalRecruiter](https://royalrecruiter.com.com/)
+- Software Developer at [KING APPS STUDIO](https://kingappsstudio.com)
 - CTO of PAFG BD LTD
 
 ### 🖥 Technologies
