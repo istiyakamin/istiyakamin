@@ -3,6 +3,26 @@ Hi, my name is Isitiyak Amin(Istu) 😎 and I am a passionate Golang developer. 
 
 I have a good understanding of the language fundamentals and the standard library, and I am familiar with the Swarm and Whisper protocols. Additionally, I have experience with deploying and compiling smart contracts, and I am passionate about learning new technologies and techniques to further my knowledge. I am confident that my experience and knowledge of Golang will be an asset to any team.
 
+### 🔥🔥 Places I have been
+- Software Engineer at [![](https://avatars2.githubusercontent.com/u/1757387?s=16&v=4) RoyalRecruiter](https://royalrecruiter.com.com/)
+- Software Developer at [![](https://avatars2.githubusercontent.com/u/15325217?s=16&v=4) KING APPS STUDIO](https://kingappsstudio.com)
+- CTO of [![](https://avatars2.githubusercontent.com/u/44778862?s=16&v=4) PAFG BD LTD]
+
+### 🖥 Technologies
+
+You can talk to me about,
+- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Jquery, Ant design, Bootstrap**
+- Backend development using **NodeJs, Golang, WordPress**
+- Database stuff using **MongoDB, MySQL, PostgreSQL**
+- Deployment stuff using **AWS, DevOps, Linux, (*)**
+
+You can still talk to me about things I am still learning,
+- Frontend stuff like **Nextjs, Angular**
+- Backend stuff like **Laravel**
+- CMS stuff like **Ghost, Wordpress**
+- Languages like **Go, Rust, PHP, Python**
+- Data structures and algorithms
+- Machine Learning
 <br>
 
 <!-- GITHUB STATUS -->
