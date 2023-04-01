@@ -1,7 +1,5 @@
 ## Welcome to my profile 😀
-Hi, my name is Isitiyak Amin(Istu) 😎 and I am a passionate Golang developer. I have been working with Golang for the past two years, and I am experienced in creating web applications and services with the language. 
-
-I have a good understanding of the language fundamentals and the standard library, and I am familiar with the Swarm and Whisper protocols. Additionally, I have experience with deploying and compiling smart contracts, and I am passionate about learning new technologies and techniques to further my knowledge. I am confident that my experience and knowledge of Golang will be an asset to any team.
+Hi, my name is Isitiyak Amin(Istu) 😎 and I am a passionate Golang developer. Few years back I started to learn golang and decided to move on with that. I have experience with deploying and compiling smart contracts, and I am passionate about learning new technologies and techniques to further my knowledge. I am confident that my experience and knowledge of Golang will be an asset to any team.
 
 ### 🔥🔥 Places I have been
 - Software Engineer at [RoyalRecruiter](https://royalrecruiter.com.com/)
@@ -13,7 +11,7 @@ I have a good understanding of the language fundamentals and the standard librar
 You can talk to me about,
 - Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Jquery, Ant design, Bootstrap**
 - Backend development using **NodeJs, Golang, WordPress**
-- Database stuff using **MongoDB, MySQL, PostgreSQL**
+- Database stuff using **GraphQL, MySQL, PostgreSQL**
 - Deployment stuff using **AWS, DevOps, Linux, (*)**
 
 You can still talk to me about things I am still learning,
