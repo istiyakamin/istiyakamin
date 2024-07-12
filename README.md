@@ -1,5 +1,15 @@
 ## Welcome to my profile 😀
-Hi, my name is Isitiyak Amin(Istu) 😎 and I am a passionate Golang developer. Few years back I started to learn golang and decided to move on with that. I have experience with deploying and compiling smart contracts, and I am passionate about learning new technologies and techniques to further my knowledge. I am confident that my experience and knowledge of Golang will be an asset to any team.
+Hi, I'm Istiyak Amin Santo. My journey has been an exciting blend of engineering, research, and entrepreneurship. Recently, I had the incredible opportunity to join Multimedia University (MMU) as a Graduate Research Assistant. My research focus is on "Life Cycle Assessment of Biofuel from Waste Cooking Oil in Malaysia," a project that I believe can make a significant impact on sustainability in my country.
+
+I began my academic journey in Computer Science and Engineering. After earning my degree, I ventured into the world of software engineering, where I spent many years developing my skills and gaining valuable experience. Working in this field allowed me to immerse myself in the realms of Artificial Intelligence, Machine Learning, and Deep Learning – areas that have always fascinated me.
+
+The intersection of technology and environmental sustainability drew me towards my current research. I am passionate about finding innovative solutions to global challenges, and the idea of turning waste cooking oil into biofuel captivated me. My goal is to leverage advanced AI and ML techniques to optimize this process, making it more efficient and sustainable.
+
+But my ambitions don't stop at research. I have a burning desire to be an entrepreneur. I envision creating a startup that bridges the gap between cutting-edge technology and real-world environmental solutions. My entrepreneurial spirit drives me to think outside the box, constantly seeking new ways to make a positive impact on society and the planet.
+
+Every step of my journey, from my early days in computer science to my current research and entrepreneurial aspirations, has been fueled by a relentless curiosity and a commitment to innovation. I believe that technology holds the key to solving many of our most pressing problems, and I am dedicated to being at the forefront of this exciting frontier.
+
+Thank you for taking the time to learn about my story. I'm excited about the future and the possibilities that lie ahead. Together, we can create a more sustainable and technologically advanced world.
 
 ### 🔥🔥 Places I have been
 - Software Engineer at [RoyalRecruiter](https://royalrecruiter.com.com/)
