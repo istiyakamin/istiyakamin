@@ -1,36 +1,31 @@
 ## Welcome to my profile 😀
-Hi, I'm Istiyak Amin Santo. My journey has been an exciting blend of engineering, research, and entrepreneurship. Recently, I had the incredible opportunity to join Multimedia University (MMU) as a Graduate Research Assistant. My research focus is on "Life Cycle Assessment of Biofuel from Waste Cooking Oil in Malaysia," a project that I believe can make a significant impact on sustainability in my country.
+Hi, I'm Istiyak Amin Santo... 
 
-I began my academic journey in Computer Science and Engineering. After earning my degree, I ventured into the world of software engineering, where I spent many years developing my skills and gaining valuable experience. Working in this field allowed me to immerse myself in the realms of Artificial Intelligence, Machine Learning, and Deep Learning – areas that have always fascinated me.
+I build AI systems, research sustainable energy solutions, and prototype products at the intersection of **machine learning**, **operations research**, and **environmental sustainability**. My current research focuses on **Life Cycle Assessment (LCA) of biofuel from Waste Cooking Oil (WCO) in Malaysia**, where I apply ML, uncertainty modeling, and optimization to drive measurable carbon savings.
 
-The intersection of technology and environmental sustainability drew me towards my current research. I am passionate about finding innovative solutions to global challenges, and the idea of turning waste cooking oil into biofuel captivated me. My goal is to leverage advanced AI and ML techniques to optimize this process, making it more efficient and sustainable.
+I’m also expanding into **Quantum Computing**—exploring how **variational algorithms, QAOA, VQE, Grover’s search,** and **quantum-inspired heuristics** can accelerate routing, scheduling, and energy systems problems.
 
-But my ambitions don't stop at research. I have a burning desire to be an entrepreneur. I envision creating a startup that bridges the gap between cutting-edge technology and real-world environmental solutions. My entrepreneurial spirit drives me to think outside the box, constantly seeking new ways to make a positive impact on society and the planet.
-
-Every step of my journey, from my early days in computer science to my current research and entrepreneurial aspirations, has been fueled by a relentless curiosity and a commitment to innovation. I believe that technology holds the key to solving many of our most pressing problems, and I am dedicated to being at the forefront of this exciting frontier.
-
-Thank you for taking the time to learn about my story. I'm excited about the future and the possibilities that lie ahead. Together, we can create a more sustainable and technologically advanced world.
 
 ### 🔥🔥 Places I have been
 - Software Engineer at [RoyalRecruiter](https://royalrecruiter.com.com/)
 - Software Developer at [KING APPS STUDIO](https://kingappsstudio.com)
-- CTO of PAFG BD LTD
+- Graduate Research Assistant at [Mutimedia University (MMU)](https://www.mmu.edu.my/)
 
 ### 🖥 Technologies
 
 You can talk to me about,
-- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Jquery, Ant design, Bootstrap**
-- Backend development using **NodeJs, Golang, WordPress**
-- Database stuff using **GraphQL, MySQL, PostgreSQL**
-- Deployment stuff using **AWS, DevOps, Linux, (*)**
+- Front-end development using HTML, CSS, SCSS, JavaScript, ReactJS, Jquery, Ant design, Bootstrap
+- Backend development using PHP, Golang, Laravel,
+- Database stuff using GraphQL, MySQL, PostgreSQL,
+- Expert in end-to-end AI solutions (data → models → APIs → dashboards) with MLOps,
+- **DevOps & Cloud:** Linux, Docker, CI/CD, AWS basics; reproducible experiments & tracking.
+- **Data & Backends:** Python, Go, Node.js; REST APIs; ETL pipelines; SQL (MySQL/PostgreSQL); GraphQL.
 
-You can still talk to me about things I am still learning,
-- Frontend stuff like **Nextjs, Angular**
-- Backend stuff like **Laravel**
-- CMS stuff like **Ghost, Wordpress**
+
+You can still talk to me about things I am still learning
+- **Quantum Computing:** Qiskit, PennyLane, hybrid training loops, circuit cost functions.
+- Love to attend duscussion in Modern Physics
 - Languages like **Go, Rust, PHP, Python**
-- Data structures and algorithms
-- Machine Learning
 <br>
 
 <!-- GITHUB STATUS -->
