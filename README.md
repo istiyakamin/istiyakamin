@@ -1,80 +1,72 @@
-## Welcome to my profile 👋
-Hi, I’m **Istiyak Amin Santo**, a **Senior Full-Stack Developer** with a passion for building scalable, high-performance web applications and intelligent backend systems.  
+## 🌌 Welcome to my profile  
+Hi, I'm **Istiyak Amin Santo** — a builder, researcher, and someone who dreams that one day I will **create my own quantum computer**.
 
-I specialize in creating clean, maintainable, and production-ready solutions — combining **modern frontend frameworks**, **robust backend architectures**, and **AI-powered automation** to turn ideas into impactful products.
+I work at the intersection of **Machine Learning**, **Quantum Computing**, **Operations Research**, and **Sustainable Energy Systems**. I love turning complex ideas into real, working systems — from AI pipelines to optimization engines, and soon, quantum-enhanced algorithms.
 
----
+My current research focuses on **Life Cycle Assessment (LCA) of biofuel from Waste Cooking Oil (WCO)** in Malaysia, where I use ML, uncertainty modeling, and optimization to discover pathways that reduce carbon footprints.
 
-### ⚙️ What I Do
-- **Full-Stack Development:** Building complete web platforms using **React**, **Laravel**, and **Go**.  
-- **Backend Engineering:** Crafting RESTful & GraphQL APIs, authentication systems, and background jobs.  
-- **Database Design:** MySQL & PostgreSQL expert — schema design, indexing, query optimization.  
-- **AI Integration:** Embedding data pipelines, ML models, and automation using **Python** and **MLOps** workflows.  
-- **DevOps & Cloud:** Deployments with **Docker**, **CI/CD**, **Linux**, and **AWS** for scalable and secure environments.  
+At the same time, I am expanding deeply into **Quantum Computing**, exploring how:
 
----
+- Variational algorithms (VQE, QAOA)  
+- Quantum Machine Learning  
+- Hybrid quantum-classical workflows  
+- Grover’s search  
+- Quantum-inspired heuristics  
 
-### 🧩 Tech Stack
+can accelerate real-world problems in routing, scheduling, and energy systems.
 
-**Frontend:** React, JavaScript, TypeScript, HTML, CSS, Bootstrap, Ant Design  
-**Backend:** Laravel (PHP), Go, Node.js, Python (FastAPI)  
-**Databases:** MySQL, PostgreSQL, GraphQL  
-**DevOps & Tools:** Docker, Linux, Git, CI/CD, AWS (EC2, S3, RDS basics)  
-**AI/MLOps:** Pandas, Scikit-learn, TensorFlow, Model APIs, Experiment Tracking  
+**Long-term vision:**  
+I want to design practical quantum algorithms — and ultimately **build my own quantum computer**.
 
 ---
 
-### 🚀 Highlighted Projects
-- **Smart Business Dashboard** – Admin portal built with React + Laravel + MySQL featuring role-based access, live search, and analytics.  
-- **AI Workflow Automation API** – Python FastAPI backend integrating ML models for predictive analysis and data cleaning.  
-- **Go-based Microservice System** – Designed lightweight Go services communicating via REST, with Dockerized deployment.  
+## 🚀 Places I Have Worked
+- Software Engineer at **RoyalRecruiter**
+- Software Developer at **KING APPS STUDIO**
+- Graduate Research Assistant at **Multimedia University (MMU)**
 
 ---
 
-### 💼 Experience
-- **Software Engineer** – [RoyalRecruiter](https://royalrecruiter.com)  
-  Built and maintained full-stack recruitment and analytics platform.  
-- **Software Developer** – [King Apps Studio](https://kingappsstudio.com)  
-  Delivered mobile-friendly web apps and internal tools with React + Laravel.  
-- **Graduate Research Assistant** – [Multimedia University (MMU)](https://www.mmu.edu.my)  
-  Conducted applied AI research on Life Cycle Assessment (LCA) of biofuels using machine learning and optimization models.  
+## 🖥 Technologies I Work With
+
+### You can talk to me about:
+- **Frontend:** HTML, CSS, SCSS, JavaScript, ReactJS, jQuery, Ant Design, Bootstrap  
+- **Backend:** PHP, Golang, Laravel  
+- **Databases:** MySQL, PostgreSQL, GraphQL  
+- **AI & Data:** Python, ML models, deep learning, pipelines, dashboards, MLOps  
+- **DevOps & Cloud:** Linux, Docker, CI/CD, AWS basics  
+- **Systems & Architecture:** REST APIs, ETL pipelines, scalable backend systems  
+
+### You can *still* talk to me about:
+- **Quantum Computing:** Qiskit, PennyLane, hybrid training loops, circuit optimization  
+- **Modern Physics** (especially quantum & relativity discussions)  
+- **Languages:** Go, Rust, PHP, Python (continuous improvement)
 
 ---
 
-### 🔬 Research & Interests
-I’m continuously exploring how **AI, optimization, and quantum computing** can enhance real-world decision systems — from sustainable energy modeling to intelligent routing and scheduling.  
+## 📊 GitHub Stats
+
+![Istiyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=istiyakamin&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=istiyakamin&layout=compact&langs_count=10&theme=dark)
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=istiyakamin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiyakamin&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
+## 🛠 Tech Badges
 
----
-
-### 🧰 Tools I Use
-<div align="center">
-  
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-squar&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-squar&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-</div>
-
 ---
 
-### 🧭 Quick Note
-I believe great engineering is about **clarity, scalability, and impact** — not just code.  
-Whether I’m building an enterprise dashboard, a data pipeline, or a sustainable AI model, I aim for clean design, measurable results, and long-term maintainability.
+## 🔗 Connect With Me
 
----
+[YouTube](https://www.youtube.com/istiyakamin)  
+[Instagram](https://instagram.com/istiyakamin10)  
+[LinkedIn](https://www.linkedin.com/in/istiyak-amin/)  
+Email: **istiyakaminsanto@gmail.com**
 
-*(This profile intentionally omits personal contact info for privacy compliance.)*
+![](https://visitor-badge.glitch.me/badge?page_id=istiyakamin)
