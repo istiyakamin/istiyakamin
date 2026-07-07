@@ -42,16 +42,15 @@ X-Nuclei MRI (²³Na, ³¹P, ⁷Li, ³⁹K) reveals biochemical and metabolic in
 
 ## Publications
 
-> IEEE Scopus-Indexed | Under Review in Q1 Journals
+**Journal Papers**
+- 📘 [*KDH-Net: Explainable Medical AI for Multiclass Kidney Disease Characterization from CT Images*](https://www.mdpi.com/2077-0383/15/8/3165) - **Journal of Clinical Medicine (MDPI)**
+- 📘 [*Tri-Objective Co-optimization of Waste-Cooking-Oil Biodiesel Using Machine Learning, NSGA-II, and Life-Cycle Assessment*](https://www.sciencedirect.com/science/article/pii/S2352484725007863) - **Energy Reports**
 
-**Journal Papers (Under Review)**
-- 📘 *Tri-Objective Co-optimization of Waste-Cooking-Oil Biodiesel Using Machine Learning, NSGA-II, and Life-Cycle Assessment* - **Energy Reports**
-- 📘 *Risk-Aware Route Optimization for Waste Cooking Oil Collection* - **Waste Management**
 
-**Conference Papers (Accepted - IEEE InCIT 2025, Scopus)**
-- 📗 *Travelling Salesman Problem: Classical to Quantum Era - A Comparative Review of Algorithms and Computational Complexity*
-- 📗 *Hybrid Deep Learning Framework for Multi-Class Breast Cancer Scoring Using Grad-CAM++*
-- 📗 *Real-Time Nuclei Classification and Allred Scoring in PR-IHC Stained Breast Cancer Histopathology Images*
+**Conference Papers (IEEE InCIT 2025, Scopus)**
+- 📗 [*Travelling Salesman Problem: Classical to Quantum Era - A Comparative Review of Algorithms and Computational Complexity*](https://ieeexplore.ieee.org/abstract/document/11276061)
+- 📗 [*Hybrid Deep Learning Framework for Multi-Class Breast Cancer Scoring Using Grad-CAM++*](https://ieeexplore.ieee.org/abstract/document/11276080)
+- 📗 [*Real-Time Nuclei Classification and Allred Scoring in PR-IHC Stained Breast Cancer Histopathology Images*](https://ieeexplore.ieee.org/abstract/document/11276031)
 
 ---
 
@@ -86,19 +85,6 @@ X-Nuclei MRI (²³Na, ³¹P, ⁷Li, ³⁹K) reveals biochemical and metabolic in
 | MSc by Research - Artificial Intelligence | Multimedia University, Malaysia | - |
 | BSc - Computer Science & Engineering | Port City International University, Bangladesh | CGPA 3.63/4.0 |
 | Diploma - Electronics Engineering | Chittagong Polytechnic Institute | CGPA 3.01/4.0 |
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=istiyakamin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=03071e&title_color=00b4d8&icon_color=90e0ef&text_color=caf0f8"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiyakamin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=03071e&title_color=00b4d8&text_color=caf0f8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=istiyakamin&theme=tokyonight&hide_border=true&background=03071e&stroke=00b4d8&ring=0077b6&fire=90e0ef&currStreakLabel=caf0f8" />
-</div>
 
 ---
 
