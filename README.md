@@ -3,7 +3,7 @@
 
 Most AI researchers can't ship. Most engineers can't research. I do both — end to end.
 
-I'm a **PhD Researcher at Danube Private University (Austria)** working on **Advanced Deep Learning for X-Nuclei MRI Super-Resolution**, with **6+ years** of experience building production software systems.
+Currently working on **Advanced Deep Learning for X-Nuclei MRI Super-Resolution**, with **6+ years** of experience building production software systems.
 
 I build complete AI solutions—from research to deployment:
 
